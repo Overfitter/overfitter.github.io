@@ -4,7 +4,7 @@
 title: Jitendra Jangid
 
 # Short description of your site
-description: I write 
+description: Data Scientist
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Resume: "/Jitendra_Jangid_Resume.pdf"
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+ #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #     - Learn markdown: "http://www.markdowntutorial.com/"
       
 #   Author's home: "http://deanattali.com"

@@ -1,3 +1,12 @@
+---
+layout: post
+title: Move Hack — NITI AAYOG Road Safety Machine Learning Challenge
+subtitle: A machine learning approach to Rate Driver Behavior and Predict accident hotspots
+# gh-repo: daattali/beautiful-jekyll
+# gh-badge: [star, fork, follow]
+tags: [transportation, data-science, machine-learning, safety]
+# comments: true
+---
 
 ## Move Hack — NITI AAYOG Road Safety Machine Learning Challenge
 

@@ -1,5 +1,13 @@
+---
+layout: post
+title: Text Classification Using Weakly Supervised — Deep Neural Networks
+subtitle: Introduction to Weak Supervised Learning
+# gh-repo: daattali/beautiful-jekyll
+# gh-badge: [star, fork, follow]
+tags: [nlp, text-classification, weak-supervised-learning, data-science, machine-learning]
+# comments: true
+---
 
-## Text Classification Using Weakly Supervised — Deep Neural Networks
 
 ## **What is Weakly-Supervised Learning?**
 
