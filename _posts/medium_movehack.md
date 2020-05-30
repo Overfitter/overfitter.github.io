@@ -7,9 +7,6 @@ subtitle: A machine learning approach to Rate Driver Behavior and Predict accide
 tags: [transportation, data-science, machine-learning, safety]
 # comments: true
 ---
-
-## Move Hack — NITI AAYOG Road Safety Machine Learning Challenge
-
 Transportation is emerging as potential drivers of innovation and economic growth in the 21st century. Rapidly evolving technologies and business models for delivering services using Artificial Intelligence have the potential to dramatically transform the global transportation sector in the times to come.
 
 Every year, thousands of lives are lost on the road nationwide, and every year, road safety becomes more and more important. It should be seen from both an **awareness **and **prevention **outlook and AI can lend a helping hand to solve this problem.
