@@ -1,4 +1,12 @@
-<font size="5" >🔍Know-Corona : COVID-19 Open Research Dataset Challenge </font>
+---
+layout: post
+title: 🔍Know-Corona : COVID-19 Open Research Dataset Challenge
+subtitle: Question & Answering Pipeline for COVID-19 Open Research Dataset Challenge
+# gh-repo: daattali/beautiful-jekyll
+# gh-badge: [star, fork, follow]
+tags: [nlp, question-answering, data-science, machine-learning]
+# comments: true
+---
 
 ### Loading metadata dataframe
 
