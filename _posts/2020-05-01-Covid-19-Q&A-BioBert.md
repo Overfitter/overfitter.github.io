@@ -40,7 +40,7 @@ metadata_df = pd.read_csv(metadata_path,
 metadata_df = metadata_df.dropna(subset=['abstract', 'title']).reset_index(drop=True)
 ```
 
-### 3. Covid Search Engine
+### Covid Search Engine
 
 
 ```python
