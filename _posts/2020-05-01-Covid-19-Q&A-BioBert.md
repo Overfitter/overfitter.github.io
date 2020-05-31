@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🔍Know-Corona (COVID-19 Open Research Dataset Challenge)
+title: Know-Corona (COVID-19 Open Research Dataset Challenge)
 subtitle: Question & Answering Pipeline for COVID-19 Open Research Dataset Challenge
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
