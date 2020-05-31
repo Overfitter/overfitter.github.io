@@ -1,3 +1,13 @@
+---
+layout: post
+title: COVID-19 Biomedical Semantic Search using Flair & Elmo (PubMed)
+subtitle: Kaggl COVID-19 Open Research Dataset Challenge
+# gh-repo: daattali/beautiful-jekyll
+# gh-badge: [star, fork, follow]
+tags: [nlp, semantic-search, healthcare, data-science, machine-learning]
+# comments: true
+---
+
 ## Contents:
 * [Loading Required Libraries](#first-bullet)
 * [Loading Metadata Information](#second-bullet)
