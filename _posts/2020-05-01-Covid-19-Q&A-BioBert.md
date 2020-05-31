@@ -8,10 +8,12 @@ tags: [nlp, question-answering, data-science, machine-learning]
 # comments: true
 ---
 
+### Loading metadata dataframe
+
+
 ```python
 !pip install rank_bm25 -q
 
-### Loading metadata dataframe
 import numpy as np
 import pandas as pd 
 from pathlib import Path, PurePath
