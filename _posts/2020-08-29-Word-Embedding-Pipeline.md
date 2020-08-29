@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NLP-Hack : Word Embeddings Pipeline
+title: NLP-Hack, Word Embeddings Pipeline
 subtitle: Word Embeddings from scratch using Word2Vec, Glove and Fasttext
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]

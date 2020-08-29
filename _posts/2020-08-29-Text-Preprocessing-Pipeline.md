@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NLP-Hack : Text Preprocessing Pipeline
+title: NLP-Hack, Text Preprocessing Pipeline
 subtitle: Text Preprocessing steps on Elon Musk Tweets
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]

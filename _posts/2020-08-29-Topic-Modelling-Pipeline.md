@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NLP-Hack : Topic Modeling Pipeline
+title: NLP-Hack, Topic Modeling Pipeline
 subtitle: Identifying Topics in the Spooky Author's dataset using LDA
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NLP-Hack : Restaurant Recommendation Engine Pipeline
+title: NLP-Hack, Restaurant Recommendation Engine Pipeline
 subtitle: Recommend Top 3 Restaurant names based on User's Input Parameters (Content Based Recommender System)
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
